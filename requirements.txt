@@ -1,0 +1,8 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+seaborn>=0.12
+apyori>=1.1.2
+mlxtend>=0.22
+openpyxl>=3.0
+ipykernel>=6.0
